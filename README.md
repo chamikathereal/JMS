@@ -9,6 +9,11 @@ Both projects use **Jakarta JMS**, **JNDI**, and run on the **Payara Embedded Se
 
 ---
 
+## 📽️ Demo Video
+[![Java EAR Project Demo](https://github.com/chamikathereal/JMS/blob/main/JMS.png)](https://youtu.be/04cRmt_z5i4)
+
+---
+
 ## 📦 Projects Overview
 
 ### 1. JMS-First-Client (Producer)
